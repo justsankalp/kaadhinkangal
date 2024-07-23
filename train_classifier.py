@@ -1,5 +1,5 @@
 # # # import pickle
-# # from sklearn.ensemble import RandomForestClassifier
+# # from xgboost import XGBClassifier --> use this for better performance than randomforestclassifier it has lot of hyperparameter, thats the only problem
 # # from sklearn.model_selection import train_test_split
 # # from sklearn.metrics import accuracy_score
 # # import numpy as np
